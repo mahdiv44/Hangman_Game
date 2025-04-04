@@ -31,23 +31,25 @@ Hangman is a fun word-guessing game made in Python. You guess letters to find a 
    ```bash
    git clone https://github.com/your-username/hangman-game.git
 
-   Welcome to the game, Hangman!
-I am thinking of a word that is 5 letters long.
--------------
-You have 6 guesses left.
-Available letters: abcdefghijklmnopqrstuvwxyz
-Please guess a letter: p
-Good guess: _pp__
--------------
-You have 6 guesses left.
-Available letters: abcdefghijklmnoqrstuvwxyz
-Please guess a letter: e
-Good guess: _pp_e
--------------
-You have 6 guesses left.
-Available letters: abcdfghijklmnoqrstuvwxyz
-Please guess a letter: *
-Possible matching words: apple, ample
-...
-Congratulations, you won!
-Your total score for this game is: 12
+##Example
+
+#Welcome to the game, Hangman!
+#I am thinking of a word that is 5 letters long.
+#-------------
+#You have 6 guesses left.
+#Available letters: abcdefghijklmnopqrstuvwxyz
+#Please guess a letter: p
+#Good guess: _pp__
+#-------------
+#You have 6 guesses left.
+#Available letters: abcdefghijklmnoqrstuvwxyz
+#Please guess a letter: e
+#Good guess: _pp_e
+#-------------
+#You have 6 guesses left.
+#Available letters: abcdfghijklmnoqrstuvwxyz
+#Please guess a letter: *
+#Possible matching words: apple, ample
+#...
+#Congratulations, you won!
+#Your total score for this game is: 12
