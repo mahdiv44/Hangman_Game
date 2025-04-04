@@ -1,5 +1,5 @@
-# Hangman Game 
-#product by : Mahdi Vazin
+# Hangman Game product by : Mahdi Vazin
+
 
 ## What is this?
 
