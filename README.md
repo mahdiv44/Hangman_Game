@@ -26,12 +26,10 @@ Hangman is a fun word-guessing game made in Python. You guess letters to find a 
 - Python 3
 - A `words.txt` file with words (one line, space-separated).
 
-## Setup
-1. Clone the project:
-   ```bash
-   git clone https://github.com/your-username/hangman-game.git
 
-##Example
+
+   
+#Example
 
 #Welcome to the game, Hangman!
 #I am thinking of a word that is 5 letters long.
