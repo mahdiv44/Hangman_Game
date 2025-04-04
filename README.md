@@ -25,7 +25,8 @@ Hangman is a fun word-guessing game made in Python. You guess letters to find a 
 - Python 3  
 - A `words.txt` file with words (one line, space-separated).  
 
-## Example Gameplay  
+## Example Gameplay
+```
 Welcome to the game, Hangman!
 I am thinking of a word that is 5 letters long.
 You have 6 guesses left.
@@ -43,3 +44,4 @@ Possible matching words: apple, ample
 ...
 Congratulations, you won!
 Your total score for this game is: 12
+```
